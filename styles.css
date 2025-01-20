@@ -51,17 +51,6 @@ section{
     position: relative;
 }
 
-/* dot::before{
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%);
-    width: 2px;
-    height: 100rem;
-    background-color: red;
-} */
-
 .dot::after{
     content: "";
     position: absolute;
